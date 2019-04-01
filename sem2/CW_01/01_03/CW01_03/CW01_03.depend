@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553459506 source:f:\stoodia\informatyka_studia\sem2\cw_01\01_03\cw01_03\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+

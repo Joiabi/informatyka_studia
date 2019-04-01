@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553461758 source:f:\stoodia\informatyka_studia\sem2\cw_01\testy\testowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<string>
+
