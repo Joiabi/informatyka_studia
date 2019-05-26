@@ -1,0 +1,1 @@
+Aby plik kazdorazowo czyscil sie nalezy uzyc ofstream zamiast fstream
